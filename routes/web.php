@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 use app\Http\Controllers\JabatanController;
+use app\Http\Controllers\PegawawaiController;
+use app\Http\Controllers\PendidikanController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
